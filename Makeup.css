@@ -1,0 +1,7 @@
+body{margin: 0px; padding: 0px;}
+main{width: 100%
+border: 1px solid red;
+height: 800px;
+background-color: powderblue;}
+
+#logo{font-size: 35px; font-color: red; font-family: roboto;}
